@@ -17,19 +17,14 @@
 
 ## 👩‍💻 Who I Am
 
-```typescript
-const alisha = {
-  title: "CS Student",
-  stack: ["SQL", "Python", "HTML", "CSS", "C"],
-  launchedProjects: [
-    "Bussiness-Website",
-    "NUTRITION-AI-AGENT-"
-  ],
-  certifications: [],
-  status: "Learning, building, and exploring AI-powered applications",
-  openTo: "Full-time opportunities, internships, and collaborations"
-};
-```
+| | |
+|---|---|
+| 🎓 **Title** | CS Student |
+| 🧰 **Stack** | SQL, Python, HTML, CSS, C |
+| 🚀 **Launched Projects** | Bussiness-Website, NUTRITION-AI-AGENT- |
+| 📜 **Certifications** | — |
+| 📌 **Status** | Learning, building, and exploring AI-powered applications |
+| 🤝 **Open To** | Full-time opportunities, internships, and collaborations |
 
 <br/>
 
@@ -122,18 +117,3 @@ An AI-powered nutrition assistant designed to provide personalized nutrition gui
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer" width="100%"/>
-
-<!--
-**AlishaJamadar20/AlishaJamadar20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
