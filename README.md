@@ -22,7 +22,7 @@
 | 🎓 **Title** | CS Student |
 | 🧰 **Stack** | SQL, Python, HTML, CSS, C |
 | 🚀 **Launched Projects** | Bussiness-Website, NUTRITION-AI-AGENT- |
-| 📜 **Certifications** | — |
+| 📜 **Certifications** | IBM SKILLBUILD, DElOITTE , INTERNSHIP AT INFIDOCS TECHNOLOGIES AS ORACLE TECHNICAL CONSULTANT|
 | 📌 **Status** | Learning, building, and exploring AI-powered applications |
 | 🤝 **Open To** | Full-time opportunities, internships, and collaborations |
 
