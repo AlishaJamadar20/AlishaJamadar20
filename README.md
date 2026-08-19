@@ -20,7 +20,7 @@
 | | |
 |---|---|
 | 🎓 **Title** | CS Student |
-| 🧰 **Stack** | SQL, Python, HTML, CSS, C |
+| 🧰 **Stack** | SQL, Python, HTML, CSS, C ,JavaScript, Git/GitHub, OpenAI API|
 | 🚀 **Launched Projects** | BUSINESS-WEBSITE, NUTRITION-AI-AGENT- |
 | 📜 **Certifications** | IBM SKILLBUILD, DElOITTE , INTERNSHIP AT INFIDOCS TECHNOLOGIES AS ORACLE TECHNICAL CONSULTANT|
 | 📌 **Status** | Learning, building, and exploring AI-powered applications |
@@ -72,7 +72,15 @@ An AI-powered nutrition assistant designed to provide personalized nutrition gui
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=py,sql,html,css,c" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=py,sql,html,css,c,js" alt="Languages"/>
+
+**AI Tools**
+
+<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"/>
+
+**Dev Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github" alt="Dev Tools"/>
 
 <br/>
 
