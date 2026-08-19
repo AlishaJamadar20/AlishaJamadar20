@@ -21,7 +21,7 @@
 |---|---|
 | 🎓 **Title** | CS Student |
 | 🧰 **Stack** | SQL, Python, HTML, CSS, C |
-| 🚀 **Launched Projects** | Bussiness-Website, NUTRITION-AI-AGENT- |
+| 🚀 **Launched Projects** | BUSINESS-WEBSITE, NUTRITION-AI-AGENT- |
 | 📜 **Certifications** | IBM SKILLBUILD, DElOITTE , INTERNSHIP AT INFIDOCS TECHNOLOGIES AS ORACLE TECHNICAL CONSULTANT|
 | 📌 **Status** | Learning, building, and exploring AI-powered applications |
 | 🤝 **Open To** | Full-time opportunities, internships, and collaborations |
@@ -30,11 +30,11 @@
 
 ## 🚀 Featured Projects
 
-### 📁 Bussiness-Website
+### 📁 Business-Website
 
 <div align="left">
-  <a href="https://github.com/AlishaJamadar20/Bussiness-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlishaJamadar20&repo=Bussiness-Website&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="Bussiness-Website"/>
+  <a href="https://github.com/AlishaJamadar20/Business-Website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlishaJamadar20&repo=Business-Website&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="Business-Website"/>
   </a>
 </div>
 
@@ -45,7 +45,7 @@ A responsive business website built to showcase a company's services, offerings,
 | Structure | HTML |
 | Styling | CSS |
 
-🔗 [Code](https://github.com/AlishaJamadar20/Bussiness-Website)
+🔗 [Code](https://github.com/AlishaJamadar20/Business-Website)
 
 <br/>
 
